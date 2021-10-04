@@ -1,0 +1,9 @@
+{
+  "Author": "Carlo Zottmann (icon pack), Microsoft (original icons)",
+  "Description": "A free icon pack based on Microsoft's Fluent UI System Icons.  Consists of 1914 icons.",
+  "Name": "Fluent UI System Icons (Regular)",
+  "URL": "https://streamdeck-iconpacks.czm.io",
+  "Version": "1.0",
+  "Icon": "icons/fluent.png",
+  "Tags": "microsoft,fluentui,fluent ui"
+}

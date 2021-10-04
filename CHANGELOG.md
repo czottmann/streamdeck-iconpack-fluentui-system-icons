@@ -1,5 +1,5 @@
 # Changelog
 
-## TODO
+## v1.0 (2021-10-04)
 
-- TODO
+- Initial release
