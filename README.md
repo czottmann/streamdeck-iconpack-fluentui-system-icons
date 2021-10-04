@@ -4,8 +4,8 @@ This is a free icon pack for the [Elgato Stream Deck](https://www.elgato.com/en/
 based on Microsoft's [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons).
 Thanks, Microsoft!
 
-The pack consists of @TODO monochrome icons (PNG, 144×144px). @TODO of them come with
-red/green alternatives.
+The pack consists of 1800+ monochrome icons (PNG, 144×144px). Several of them
+come with red/green alternatives.
 
 ## Screenshot
 
