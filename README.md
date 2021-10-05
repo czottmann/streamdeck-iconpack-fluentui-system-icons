@@ -20,7 +20,7 @@ come with red/green alternatives.
 
 ## How to install
 
-1. Download the `Source code (ZIP)` file of the [latest release](https://github.com/carlo/streamdeck-iconpack-fluentui-system-icons/releases)
+1. Download the `Source code (ZIP)` file of the [latest release](https://github.com/carlo/streamdeck-iconpack-fluentui-system-icons/releases/latest)
 2. Extract the downloaded ZIP file. The icon packs are folders contained within, ending in `.sdIconPack`
 3. Move `fluentui-system-icons-filled.sdIconPack` and/or `fluentui-system-icons-regular.sdIconPack` into the `IconPacks/` directory in your local SD data folder✱
 4. Quit the Stream Deck software and restart it
