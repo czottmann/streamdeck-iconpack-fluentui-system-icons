@@ -1,7 +1,8 @@
-# Stream Deck icon pack: Fluent UI System Icons
+# Stream Deck icon pack: Fluent UI System Icons (Regular)
 
 This is a free icon pack for the [Elgato Stream Deck](https://www.elgato.com/en/stream-deck),
-based on Microsoft's [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons).
+based on the regular variant of Microsoft's
+[Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons).
 Thanks, Microsoft!
 
 The pack consists of 1800+ monochrome icons (PNG, 144×144px). Several of them
